@@ -21,7 +21,7 @@ Bem-vindo ao **Web Music Player**, um reprodutor de música simples e funcional 
 
 ## 🌐 Link do Projeto Online
 
-Você pode acessar a versão online do projeto [aqui](#).
+Você pode acessar a versão online do projeto [Player Music Online](https://music-player-js-iury.netlify.app/).
 
 ## 📚 Como Funciona
 
