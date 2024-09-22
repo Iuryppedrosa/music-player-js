@@ -19,11 +19,6 @@ Bem-vindo ao **Web Music Player**, um reprodutor de música simples e funcional 
 - **CSS3**: Estilização e design.
 - **JavaScript (script.js)**: Funcionalidades interativas como controles e atualização do progresso da música.
 
-## 📸 Screenshots
-
-*(![Captura de tela 2024-09-22 171153](https://github.com/user-attachments/assets/b8d759e7-59e9-4acb-b157-eed2175384f6)
-)*
-
 ## 🌐 Link do Projeto Online
 
 Você pode acessar a versão online do projeto [aqui](#).
@@ -57,6 +52,11 @@ Você pode acessar a versão online do projeto [aqui](#).
 - [ ] Animações e transições CSS mais suaves.
 
 ## 🤝 Contribuições
+
+## 📸 Screenshots
+
+*![Captura de tela 2024-09-22 171153](https://github.com/user-attachments/assets/b8d759e7-59e9-4acb-b157-eed2175384f6)
+*
 
 Sinta-se à vontade para contribuir com sugestões, relatórios de bugs ou melhorias através de pull requests!
 
