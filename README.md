@@ -21,7 +21,8 @@ Bem-vindo ao **Web Music Player**, um reprodutor de música simples e funcional 
 
 ## 📸 Screenshots
 
-*(Adicione aqui imagens do seu projeto em funcionamento)*
+*(![Captura de tela 2024-09-22 171153](https://github.com/user-attachments/assets/b8d759e7-59e9-4acb-b157-eed2175384f6)
+)*
 
 ## 🌐 Link do Projeto Online
 
